@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 85%;
+    margin-right: 40px;
+}
+
+.App {
+    height: 100vh;
+    position: static;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.Heading{
+    position: relative !important;
+    height: 64px !important;
+}
+
+i.material-icons.left{
+    margin: 0;
+}
+a.btn-small{
+    z-index: 0;
+}

@@ -1,0 +1,17 @@
+.List{
+    overflow-y: auto;
+    height: calc(100vh - 64px - 50px);
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    blockquote{
+        width: 100%;
+    }
+    div{
+        padding: 30px;
+    }
+    .container{
+        padding: 5px !important;
+        width: 90%;
+    }
+}
